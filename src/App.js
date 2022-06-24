@@ -9,7 +9,7 @@ import LoginFunction from './Pages/LoginFunction';
 import Expense from './Pages/Expense';
 import NotFound from './Pages/NotFound';
 
-
+//Code commented
 import {BrowserRouter as Router,Route, Routes, Link, Navigate} from 'react-router-dom';
 import SuccessfulRegister from './Pages/SuccessfulRegister';
 

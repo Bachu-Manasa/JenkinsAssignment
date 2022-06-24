@@ -3,7 +3,6 @@ import SuccessfulRegister from './SuccessfulRegister'
 import {useState} from 'react'
 import {Alert} from 'react-bootstrap'
 import './Form.css'
-
 function FormFunction() {
     const [email,setEmail] = useState("");
     const [password,setPassword] = useState("");
